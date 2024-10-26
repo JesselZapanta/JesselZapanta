@@ -36,10 +36,9 @@
 
 ###
 
-<img align="right" height="150" src="https://media.tenor.com/hVRhFeDFW6oAAAAi/anime-wave.gif"  />
-
-###
-
-<img src="https://raw.githubusercontent.com/JesselZapanta/JesselZapanta/output/snake.svg" alt="Snake animation" />
+<div>
+  <img src="https://raw.githubusercontent.com/JesselZapanta/JesselZapanta/output/snake.svg" alt="Snake animation" />
+  <img align="right" height="150" src="https://media.tenor.com/hVRhFeDFW6oAAAAi/anime-wave.gif"  />
+</div>
 
 ###
